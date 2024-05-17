@@ -1,1 +1,1 @@
-# GeoSpartial
+# GeoSpatial
